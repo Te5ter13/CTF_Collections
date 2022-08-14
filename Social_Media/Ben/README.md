@@ -25,22 +25,22 @@ gobuster:
 /secret               (Status: 200) [Size: 9281]
 
 
-*First wordlist: robots.txt*
+### *First wordlist: robots.txt*
 
-# at /robots.txt
+## at /robots.txt
 
 Hello Ben, thanks for teaching me about EXIF data now whenever I see a image I try to check if there's any EXIF data or not
 Another important thing I encoded your password to >>  YmVuYmVuYmVu
  YmVuYmVuYmVu --> base64-decode --> benbenben
 
-# found the image at /index
+## found the image at /index
 at script.js file there's download.png and redirecting to home page adding download.png get the image of robot.
 
-# using the Exiftool for the image
+## using the Exiftool for the image
 got the link:
 https://www.mediafire.com/file/k5bsst6hit3sbgg/Ben.zip/file
 
-# Found Ben.zip file 
+## Found Ben.zip file 
 extract with benbenben password(cracked password) using cmd:
 7z x Ben.zip
 
