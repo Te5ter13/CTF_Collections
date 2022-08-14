@@ -15,7 +15,7 @@ So you are here to find the flag?
 Good luck
 -S4NK41P4 
 
-###Time to search for the directory
+### Time to search for the directory
 gobuster:
 /index                (Status: 301) [Size: 969] [--> /]
 /Index                (Status: 301) [Size: 969] [--> /]
