@@ -1,0 +1,10 @@
+#Ctf Challenge : Cr¡M¡n4L
+#Ctf Category : Cryptography, OSINT
+#Hint:
+For a long time I have been working for FBI. Suddenly FBI gives me a code message and tells me to find an extremely dangerous criminal. I got his ip address but could not find out his location. Help me to find out his position.
+Level: Easy
+#(at least try you will learn new things)
+[Flag Format]: CTF-NP{Country,state,city}
+
+Question:->
+141 110 122 60 143 110 115 66 114 171 70 171 115 104 143 165 115 152 111 64 114 152 111 172 117 103 64 63

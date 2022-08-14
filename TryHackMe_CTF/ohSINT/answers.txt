@@ -1,0 +1,7 @@
+avatar -> cat
+city -> London
+SSID -> UnileverWiFi
+email -> OWoodflint@gmail.com
+site -> github
+gone_on_holiday -> New York
+password -> pennYDr0pper.!
